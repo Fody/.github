@@ -21,7 +21,7 @@ Where relevant, ensure you are using the current stable versions of the followin
 
  * Fody (note for this you need an explicit NuGet reference to Fody in your csproj)
  * Any Fody weavers being used
- * Visual Studio
+ * MSBuild 16. 
  * [.NET Core SDK](https://www.microsoft.com/net/download)
 
 Any code or stack traces must be properly formatted with [GitHub markdown](https://guides.github.com/features/mastering-markdown/).
